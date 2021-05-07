@@ -29,7 +29,8 @@
 [<img align="left" alt="Maya" width="26px" src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" />][Maya]
 [<img align="left" alt="Unity" width="26px" src="http://assets.stickpng.com/thumbs/58482b92cef1014c0b5e4a2d.png" />][Unity]
 
-
+<br />
+<br />
 [Twitch]: https://www.twitch.tv/jaymealann
 [Twitter]: https://twitter.com/JaymeAlann
 [LinkedIn]: https://www.linkedin.com/in/jaymealann/
