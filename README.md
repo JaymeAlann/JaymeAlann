@@ -23,7 +23,7 @@
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][Java]
 [<img align="left" alt="Github" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][Github]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />][HTML5]
-[<img align="left" alt="CSS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" />][CSS]
+[<img align="left" alt="CSS" width="26px" src="https://mpng.subpng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" />][CSS]
 [<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />][SQL]
 [<img align="left" alt="JavaScript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />][JavaScript]
 [<img align="left" alt="Maya" width="26px" src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" />][Maya]
