@@ -19,7 +19,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Injellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />][Intellij]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][C++]
-[<img align="left" alt="Python" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />][Python]
+[<img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][Java]
 [<img align="left" alt="Github" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][Github]
 [<img align="left" alt="HTML5" width="26px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />][HTML5]
