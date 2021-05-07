@@ -22,7 +22,7 @@
 [<img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][Java]
 [<img align="left" alt="Github" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][Github]
-[<img align="left" alt="HTML5" width="26px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />][HTML5]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />][HTML5]
 [<img align="left" alt="CSS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" />][CSS]
 [<img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" />][SQL]
 [<img align="left" alt="JavaScript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />][JavaScript]
