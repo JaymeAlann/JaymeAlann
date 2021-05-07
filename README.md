@@ -10,9 +10,9 @@
 
 ### Connect with me!!
 [<img align="left" alt="twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/jaymealann)
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JaymeAlann)
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jaymealann/)
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jayme_alann/)
 
 <br/>
 
@@ -30,7 +30,3 @@
 
 <br />
 <br />
-[Twitch]:https://www.twitch.tv/jaymealann
-[Twitter]:https://twitter.com/JaymeAlann
-[LinkedIn]:https://www.linkedin.com/in/jaymealann/
-[Instagram]:https://www.instagram.com/jayme_alann/
