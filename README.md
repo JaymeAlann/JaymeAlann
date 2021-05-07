@@ -26,7 +26,7 @@
 [<img align="left" alt="CSS" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />][CSS]
 [<img align="left" alt="JavaScript" width="40px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />][JavaScript]
 [<img align="left" alt="Maya" width="26px" src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" />][Maya]
-[<img align="left" alt="Unity" width="26px" src="http://assets.stickpng.com/thumbs/58482b92cef1014c0b5e4a2d.png" />][Unity]
+[<img align="left" alt="Unity" width="26px" src="https://banner2.cleanpng.com/20180523/fuf/kisspng-unity-game-engine-logo-video-game-corelle-brands-5b059883ec9bc6.4197736615270933799692.jpg" />][Unity]
 
 <br />
 <br />
