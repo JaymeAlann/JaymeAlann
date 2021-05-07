@@ -23,7 +23,7 @@
 [<img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][Java]
 [<img align="left" alt="Github" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][Github]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />][HTML5]
-[<img align="left" alt="CSS" width="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />][CSS]
+[<img align="left" alt="CSS" width="22px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />][JavaScript]
 [<img align="left" alt="Maya" width="26px" src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" />][Maya]
 [<img align="left" alt="Unity" width="26px" src="http://assets.stickpng.com/thumbs/58482b92cef1014c0b5e4a2d.png" />][Unity]
