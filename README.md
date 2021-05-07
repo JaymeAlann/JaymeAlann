@@ -30,3 +30,5 @@
 
 <br />
 <br />
+
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jaymealann)](https:github.com/jaymealann/github-readme-stats)
