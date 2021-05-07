@@ -1,4 +1,4 @@
-### Hello! My name is James Grady - aka Jayme 😄
+# James Grady - aka Jayme
 
 ## I am a Developer, Content Creator, Gamer and Triathlete
 - 🔭 I’m currently working on a horror game within Unity
