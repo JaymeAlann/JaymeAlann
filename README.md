@@ -30,7 +30,7 @@
 
 <br />
 <br />
-[Twitch]: https://www.twitch.tv/jaymealann
-[Twitter]: https://twitter.com/JaymeAlann
-[LinkedIn]: https://www.linkedin.com/in/jaymealann/
+[Twitch]:https://www.twitch.tv/jaymealann
+[Twitter]:https://twitter.com/JaymeAlann
+[LinkedIn]:https://www.linkedin.com/in/jaymealann/
 [Instagram]:https://www.instagram.com/jayme_alann/
