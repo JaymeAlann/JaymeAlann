@@ -1,6 +1,5 @@
 # James Grady - aka Jayme
-
-## I am a Developer, Content Creator, Gamer and Triathlete
+ I am a Developer, Content Creator, Gamer and Triathlete
 - 🔭 I’m currently working on a horror game within Unity
 - 🌱 I’m currently learning everything code 🤣
 - 💬 Ask me about anything! I love sitting down and just having a chat!
