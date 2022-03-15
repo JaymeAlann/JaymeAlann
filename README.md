@@ -5,7 +5,7 @@
 - 💬 Ask me about anything! I love sitting down and just having a chat!
 - 📫 How to reach me: Jaymealann@gmail.com 
 - 😄 Pronouns: His/Him/He
-- ⚡ Fun fact: My very first Ironman is this November 2021!!
+- ⚡ Fun fact: My next Ironman is November 2022!!
 
 ### Connect with me!!
 [<img align="left" alt="twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/jaymealann)
