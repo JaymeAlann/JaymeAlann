@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a horror game within Unity
 - 🌱 I’m currently learning everything code 🤣
 - 💬 Ask me about anything! I love sitting down and just having a chat!
-- 📫 How to reach me: Jaymealann@gmail.com 
+- 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com
 - 😄 Pronouns: His/Him/He
 - ⚡ Fun fact: My next Ironman is November 2022!!
 
