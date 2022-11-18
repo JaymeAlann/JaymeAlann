@@ -1,7 +1,9 @@
 # James Grady - aka Jayme
- I am a Developer, Content Creator, Gamer and Triathlete
-- 🔭 I’m currently working on a horror game within Unity
-- 🌱 I’m currently learning everything code 🤣
+ I am a Product Specialist / Jr. Software Engineer working with Nuxt, Typescript and .NET. 
+ I love wearing multiple hats and get to work on each product closely. 
+In my free time: 
+- 🔭 I’m currently working on a horror game within Unreal
+- 🌱 I’m currently learning everything code
 - 💬 Ask me about anything! I love sitting down and just having a chat!
 - 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com
 - 😄 Pronouns: His/Him/He
