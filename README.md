@@ -1,5 +1,8 @@
 # James Grady - aka Jayme
 
+![image](https://user-images.githubusercontent.com/49544140/205746541-5927bc11-61c7-4c93-9bc6-247edf338646.png)
+<br/>
+
  <br/>
  I am a Product Specialist / Jr. Software Engineer working with Nuxt, Typescript and .NET. 
  I love wearing multiple hats and get to work on each product closely. 
