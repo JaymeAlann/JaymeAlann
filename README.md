@@ -3,13 +3,12 @@
  <br/>
  I am a Product Specialist / Jr. Software Engineer working with Nuxt, Typescript and .NET. 
  I love wearing multiple hats and get to work on each product closely. 
-In my free time: 
-- 🔭 I’m currently working on a horror game within Unreal
-- 🌱 I’m currently learning everything code
-- 💬 Ask me about anything! I love sitting down and just having a chat!
-- 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com
-- 😄 Pronouns: His/Him/He
-- ⚡ Fun fact: My next Ironman is November 2022!!
+In my free time: <br>
+- 🌱 I talk a lot when I am nervous or excited... so all the time. <br>
+- 🔭 I’m currently developing game within Unreal <br>
+- 🌱 I’m love learning everything code <br>
+- 💬 Ask me about anything! I love sitting down and just having a chat!<br>
+- 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com <br>
 
 ### Connect with me!!
 [<img align="left" alt="twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/jaymealann)
