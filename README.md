@@ -4,10 +4,11 @@
 <br/>
 
  <br/>
- I am a Product Specialist / Jr. Software Engineer working with Nuxt, Typescript and .NET. 
+ I am a Product Manager and Engineer working with Nuxt, Typescript and .NET. 
  I love wearing multiple hats and get to work on each product closely. 
 In my free time: <br>
-- 🌱 I talk a lot when I am nervous or excited... so all the time. <br>
+- 🌱 I talk a lot when I am excited... so all the time. <br>
+- 🌱 I am Huge into endurance sports and love doing triathalons <br>
 - 🔭 I’m currently developing game within Unreal <br>
 - 🌱 I’m love learning everything code <br>
 - 💬 Ask me about anything! I love sitting down and just having a chat!<br>
