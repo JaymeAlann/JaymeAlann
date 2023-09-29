@@ -1,17 +1,14 @@
 # James Grady - aka Jayme
 
-![image](https://user-images.githubusercontent.com/49544140/205746541-5927bc11-61c7-4c93-9bc6-247edf338646.png)
-<br/>
-
  <br/>
- I am a Product Manager and Engineer working with Nuxt, Typescript and .NET. 
- I love wearing multiple hats and get to work on each product closely. 
+ I serve as a dedicated Product Manager proficient in Javascript, C++ and Python.
+ My passion lies in wearing various hats and engaging closely with every product I work on.
 In my free time: <br>
-- 🌱 I talk a lot when I am excited... so all the time. <br>
-- 🌱 I am Huge into endurance sports and love doing triathalons <br>
-- 🔭 I’m currently developing game within Unreal <br>
+- 🌱 I'm an enthusiastic conversationalist, always eager to engage. <br>
+- 🌱 Endurance sports, particularly triathlons, fuel my love for physical challenges. <br>
+- 🔭 I’m currently immersed in the development of my own game within the Unreal Engine. <br>
 - 🌱 I’m love learning everything code <br>
-- 💬 Ask me about anything! I love sitting down and just having a chat!<br>
+- 💬 Feel free to approach me about anything!<br>
 - 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com <br>
 
 ### Connect with me!!
