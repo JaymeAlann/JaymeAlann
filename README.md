@@ -1,7 +1,7 @@
 # James Grady - aka Jayme
 
  <br/>
- I serve as a dedicated Product Manager proficient in Javascript, C++ and Python.
+ I serve as a Product Manager with a background in Javascript, C++ and Python.
  My passion lies in wearing various hats and engaging closely with every product I work on.
 In my free time: <br>
 - 🌱 I'm an enthusiastic conversationalist, always eager to engage. <br>
