@@ -26,8 +26,8 @@ In my free time: <br>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" />
 <img align="left" alt="CSS" width="20px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
-<img align="left" alt="Maya" width="26px" src="https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg" />
-<img align="left" alt="Unity" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" />
+<img align="left" alt="Typescript" width="26px" src="[https://mpng.subpng.com/20190306/tg/kisspng-autodesk-maya-computer-icons-portable-network-grap-5c8019ec7cbb67.4418013315518991165109.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png)" />
+<img align="left" alt="Vue" width="26px" src="[https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png](https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png)" />
 
 <br />
 <br />
