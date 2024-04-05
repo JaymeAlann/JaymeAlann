@@ -4,10 +4,9 @@
  I serve as a Product Manager with a background in Javascript, C++ and Python.
  My passion lies in wearing various hats and engaging closely with every product I work on.
 In my free time: <br>
-- 🌱 I'm an enthusiastic conversationalist, always eager to engage. <br>
 - 🌱 Endurance sports, particularly triathlons, fuel my love for physical challenges. <br>
 - 🔭 I’m currently immersed in the development of my own game within the Unreal Engine. <br>
-- 🌱 I’m love learning everything code <br>
+- 🌱 I occasionally stream on Twitch! <br>
 - 💬 Feel free to approach me about anything!<br>
 - 📫 How to reach me: Jaymealann@gmail.com or Jamesgrady20@yahoo.com <br>
 
