@@ -1,5 +1,5 @@
 # James Grady
-**`product · ai systems · developer tools · human-computer interaction`**
+**`Product Leader · AI Systems · Developer Tools · Human-Computer Interaction`**
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-1D9E75?style=flat)
 
